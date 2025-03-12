@@ -4,5 +4,5 @@
 /**
  * 
  */
-module course {
+module estrutura_repetitiva_while {
 }
